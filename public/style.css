@@ -50,7 +50,7 @@ button
 {
     margin-left: 8vw;
     position: relative;
-    background-color:rgb(204, 204, 204);
+    background-color:rgb(180, 215, 255);
     border-radius:3vw;
     padding:1vw 3vw;
 }
@@ -63,7 +63,7 @@ button
     left: -6vw;
     margin-top: -7vw;
     border: 3vw solid transparent;
-    border-right: 8vw solid rgb(204, 204, 204);
+    border-right: 8vw solid rgb(180, 215, 255);
     transform: rotate(40deg);
     z-index: -1;
 }
